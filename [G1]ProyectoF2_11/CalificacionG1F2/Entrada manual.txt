@@ -1,0 +1,8 @@
+PROVEEDOR:
+ProveedorTech, info@proveedortech.com, Calle Proveedor 456, 987-654-3210
+
+Cliente:
+Juan Pérez, blink40-@hotmail.com, Calle Principal 123, 123-456-7890
+
+Producto:
+Laptop Ultradelgada, Electrónicos, 6777, 4894.5
